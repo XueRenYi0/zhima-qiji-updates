@@ -22,4 +22,5 @@ https://github.com/XueRenYi0/zhima-qiji-updates/releases/latest/download/latest.
 
 ## 版本
 
-- v0.2.2：答题大勾/大叉反馈；一键更新；多题库、Day 切换、AI 解析。
+- v0.2.4：答题大勾/大叉反馈；一键更新（跟随系统代理）；多题库、Day 切换、AI 解析。
+
