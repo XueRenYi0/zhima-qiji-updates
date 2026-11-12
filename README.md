@@ -8,13 +8,15 @@
 
 ## 应用内一键更新
 
-应用 → 设置 → 软件更新，更新源填：
+0.2.4 起默认更新源已内置，打开应用点右上角「更新」即可。
+
+更新源：
 
 ```text
 https://github.com/XueRenYi0/zhima-qiji-updates/releases/latest/download/latest.json
 ```
 
-然后点右上角「更新」。
+如果设置里被清空，把它填回去即可。也可以换成局域网共享或同步盘里的 `latest.json`。
 
 ## 数据说明
 
@@ -23,4 +25,3 @@ https://github.com/XueRenYi0/zhima-qiji-updates/releases/latest/download/latest.
 ## 版本
 
 - v0.2.4：答题大勾/大叉反馈；一键更新（跟随系统代理）；多题库、Day 切换、AI 解析。
-
